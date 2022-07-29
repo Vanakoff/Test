@@ -1,0 +1,8 @@
+cd - go to Exact Folder 
+ls - open and show all files inside of the folder 
+mkdir - make direction or make a folder 
+touch name - create a file inside, eg. touch HelloWorld.txt - will create txt file
+git init - shows git status
+git log - shows what inside your git
+ls -a - shows hidden files
+git status - shows in red color what is not in the git
