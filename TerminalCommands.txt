@@ -1,8 +1,16 @@
-cd - go to Exact Folder 
-ls - open and show all files inside of the folder 
-mkdir - make direction or make a folder 
-touch name - create a file inside, eg. touch HelloWorld.txt - will create txt file
-git init - shows git status
-git log - shows what inside your git
-ls -a - shows hidden files
-git status - shows in red color what is not in the git
+cd - go to Exact Folder.
+ls - open and show all files inside of the folder.
+mkdir - make direction or make a folder.
+open filename.txt - eg. Just to open file with default app. 
+touch name - create a file inside, eg. touch HelloWorld.txt - will create txt file.
+git init - shows git status.
+git log - shows what inside your git.
+ls -a - shows hidden files.
+git status - shows in red color what is not in the git.
+git add filename.name - adds file to git.
+git commit -m "add message what you want to commit" - inside "" type a message, proper way to use it 														   	       in Present Tense, like "Complete Chapter 1".
+git add . - add all files to the git.
+git diss filename.txt - difference what was added and file name of where exactly.
+git checkout filename.txt - specify what changes we did before. 
+git remote add origin open https://github.com/Vanakoff/Test-story.git - add remote to GotHub
+git push -u origin master - push Your work to remote in origin branch.
